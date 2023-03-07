@@ -34,3 +34,12 @@ https://geohub.lio.gov.on.ca/datasets/lio::built-up-area/explore?location=43.725
 Utility lines:
 https://geohub.lio.gov.on.ca/datasets/mnrf::utility-line/about
 
+
+
+
+**Possible configurable solutions**
+https://www.arcgis.com/apps/solutions/index.html?gallery=true&sortField=relevance&sortOrder=desc#home
+
+https://www.esri.com/content/dam/esrisites/en-us/events/conferences/2020/developer-summit/arcgis-apps-taking-your-maps-offline.pdf
+
+https://www.qrcode-tiger.com/location-qr-code
