@@ -30,3 +30,7 @@ https://open.canada.ca/data/en/dataset/3d282116-e556-400c-9306-ca1a3cada77f/reso
 
 Built-up Areas:
 https://geohub.lio.gov.on.ca/datasets/lio::built-up-area/explore?location=43.725015%2C-79.428505%2C10.36
+
+Utility lines:
+https://geohub.lio.gov.on.ca/datasets/mnrf::utility-line/about
+
