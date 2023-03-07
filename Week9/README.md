@@ -1,2 +1,2 @@
 
-Download the Word Document to view the detailed log with screen-shots.
+Download the Word Document (if provided) to view the detailed log with screen-shots.
