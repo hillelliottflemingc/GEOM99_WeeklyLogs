@@ -45,3 +45,9 @@ https://www.esri.com/content/dam/esrisites/en-us/media/pdf/implementation-guides
 https://www.esri.com/content/dam/esrisites/en-us/events/conferences/2020/developer-summit/arcgis-apps-taking-your-maps-offline.pdf
 
 https://www.qrcode-tiger.com/location-qr-code
+
+
+...
+
+emergency management solution:
+https://fleming.maps.arcgis.com/apps/solutions/index.html?solution=sirbbhpntndbikpeckrl9tbln65pr0tw&sortField=relevance&sortOrder=desc#home
