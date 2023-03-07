@@ -15,3 +15,16 @@ Researching data available (1 hours)
 5. Proposal (20mins)
 
 6. Technology used (5mins)
+
+
+**Links to data found on Infastructure**
+
+Fire hydrats:
+https://open.toronto.ca/dataset/fire-hydrants/
+
+Sidewalks:
+https://open.toronto.ca/dataset/sidewalk-inventory/
+
+Roads:
+https://open.canada.ca/data/en/dataset/3d282116-e556-400c-9306-ca1a3cada77f/resource/279da409-a136-4198-8a22-f69d24cce659?inner_span=True
+
