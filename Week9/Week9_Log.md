@@ -1,43 +1,25 @@
 **Task 1
 Project Problem Statement (version 1)
-Topic: Critical Infrastructure Monitoring in Toronto**
-
-Researching data available (1 hours)
-
-1. Problem Statement (5-10mins)
-
-2. Ideal (5-10mins)
-
-3. Reality (5-10mins)
-
-4. Consequences (5- 10mins)
-
-5. Proposal (20mins)
-
-6. Technology used (5mins)
+Topic: AED Asset Management for the County of Grey**
 
 
-**Links to data found on Infastructure**
+1. Ideal (20mins)
 
-Fire hydrats:
-https://open.toronto.ca/dataset/fire-hydrants/
+2. Reality (20mins)
 
-Sidewalks:
-https://open.toronto.ca/dataset/sidewalk-inventory/
+3. Consequences (20mins)
 
-Roads:
-https://open.canada.ca/data/en/dataset/3d282116-e556-400c-9306-ca1a3cada77f/resource/279da409-a136-4198-8a22-f69d24cce659?inner_span=True
+4. Proposal (30mins)
 
-Built-up Areas:
-https://geohub.lio.gov.on.ca/datasets/lio::built-up-area/explore?location=43.725015%2C-79.428505%2C10.36
+5. Technology used (5mins)
 
-Utility lines:
-https://geohub.lio.gov.on.ca/datasets/mnrf::utility-line/about
+
+ESRI Solutions link to deploy sample: https://www.arcgis.com/apps/solutions/index.html?gallery=true&searchTerm=aed&solution=tdlo6jju116bxir6fbrqhgbd8am0r3ji&sortField=relevance&sortOrder=desc#home
 
 
 
 
-**Possible configurable solutions**
+**Links from research on other possible configurable solutions**
 https://www.arcgis.com/apps/solutions/index.html?gallery=true&sortField=relevance&sortOrder=desc#home
 
 https://www.esri.com/content/dam/esrisites/en-us/media/pdf/implementation-guides/take-your-web-maps-offline.pdf
@@ -46,8 +28,6 @@ https://www.esri.com/content/dam/esrisites/en-us/events/conferences/2020/develop
 
 https://www.qrcode-tiger.com/location-qr-code
 
-
-...
 
 emergency management solution:
 https://fleming.maps.arcgis.com/apps/solutions/index.html?solution=sirbbhpntndbikpeckrl9tbln65pr0tw&sortField=relevance&sortOrder=desc#home
